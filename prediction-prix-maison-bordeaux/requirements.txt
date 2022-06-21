@@ -1,0 +1,14 @@
+
+                numpy
+                pandas
+                seaborn
+                plotly
+                Scrapy
+                streamlit
+                fastapi
+                selenium
+                beautifulsoup4
+                matplotlib==3.5.2
+                scikit-learn==1.1.1
+                pytest
+                unittest2
